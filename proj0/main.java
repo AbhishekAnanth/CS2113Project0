@@ -18,6 +18,7 @@ public class main {
 
             int choice = -1;
             
+            /*
             switch (choice) {
                 case 1:
                     //call addItem
@@ -43,7 +44,7 @@ public class main {
 
                 default:
                     //make sure menu options are valid
-            }
+            } */
 
         }
     }
